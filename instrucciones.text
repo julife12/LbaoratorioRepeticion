@@ -1,4 +1,0 @@
-1.	Cree un proyecto denominado LaboratorioRepeticion (recuerde que algunas herramientas no crean proyectos, por lo que deberá crear una carpeta con el nombre LaboratorioVCS en donde guardará los archivos de manera local).
-2.	Inicialice un repositorio Git local en el proyecto creado en su computador.
-3.	Cree un Repositorio en GitHub llamado LaboratorioRepeticionRemoto.
-4.	En el proyecto local, cree archivo llamado instrucciones.txt, en donde guarde cada uno de los numerales de esta lista.
