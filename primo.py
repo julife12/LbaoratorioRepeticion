@@ -1,11 +1,12 @@
 a=int(input("El numero a probar es: "))
 divisores=0
-mitadE=a//2
-for i in range(1, mitadE):
+i=1
+while divisores<=2 and i<=a//2:
     if a%i==0:
         divisores=divisores+1
-        if divisores==3:
-            break
+        i=i+1
+    else:
+        i=i+1
     
 
 if divisores<=2:
