@@ -9,7 +9,7 @@ while divisores<=2 and i<=a//2:
         i=i+1
     
 
-if divisores<=2:
+if divisores<=1:
     print("el numero es primo")
 else:
     print("el numero no es primo")
