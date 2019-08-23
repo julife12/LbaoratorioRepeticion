@@ -1,9 +1,3 @@
-a=int(input("digite el numero: "))
-if a>0:
-    print("es mayor a cero")
-else:
-    print("es menor a cero")
-
 cant_mas=0
 cant_menos=0
 cant_cero=0
